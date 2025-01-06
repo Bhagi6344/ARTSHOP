@@ -18,7 +18,7 @@ $page_title = "Sign Up"
                 <div class="card shadow">
                     <div class="card-header">
                         <h1 class="headings">Sign Up &</h1>
-                        <h5>Step into the retail realm with flair</h5>
+                        <h5>Hello How are you?</h5>
                     </div>
                     <div class="card-body">
                         <div class="form-group mb-3">
